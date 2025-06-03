@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 🧠 Software Engineering student at WeThinkCode_  
-🔭 I’m currently working on: a Monte Carlo Method Area Calculator and Hangman  
+🔭 I’m currently working on: a Monte Carlo Method Area Calculator  
 👯 I’m looking to collaborate on: hackathons and a sports data application  
 🌱 I’m currently learning: Python, Java, and Pygame utilisation  
 💬 Ask me about anything  
