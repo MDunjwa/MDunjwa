@@ -3,13 +3,11 @@
 
 # 💫 About Me:
 🧠 Software Engineering student at WeThinkCode_  
-🔭 I’m currently working on: a Monte Carlo Method Area Calculator  
-👯 I’m looking to collaborate on: hackathons and a sports data application  
-🌱 I’m currently learning: Python, Java, and Pygame utilisation  
+🔭 I’m currently working on: a Football Team and Player Data Analysis App
 💬 Ask me about anything  
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mbasaemail@gmail.com)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mbasadunjwa@gmail.com)
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
