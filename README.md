@@ -25,3 +25,11 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MDunjwa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## Coding playlist
+If you’ve made it this far, you’re welcome to tap in. This is what I code to.
+<p align="left">
+  <a href="https://open.spotify.com/playlist/4NlJROvOgcJimaJD6L9DGc">
+    <img src="hike.png" width="100"/>
+  </a>
+</p>
