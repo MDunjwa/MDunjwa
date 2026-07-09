@@ -1,5 +1,6 @@
-## Hi there, I'm Mbasa 👋
-
+<p align="left">
+  <img src="night_engineer.gif" width="600" />
+</p>
 
 # 💫 About Me:
 🧠 Software Engineering student at WeThinkCode_  
