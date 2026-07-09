@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="night_engineer.gif" width="600" />
+  <img src="assets/night_engineer.gif" width="600" />
 </p>
 
 # 💫 About Me:
@@ -30,6 +30,6 @@
 If you’ve made it this far, you’re welcome to tap in. This is what I code to.
 <p align="left">
   <a href="https://open.spotify.com/playlist/4NlJROvOgcJimaJD6L9DGc">
-    <img src="hike.png" width="100"/>
+    <img src="assets/hike.png" width="100"/>
   </a>
 </p>
